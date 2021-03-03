@@ -6,7 +6,7 @@ jobs:
   run_cypress:
     name: Run Cypress
     runs-on: ubuntu-16.04
-    timeout-minuts: 20
+    timeout-minutes: 20
     steps:
       - name: Checkout
         uses: actions/checkout@v1
