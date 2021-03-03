@@ -1,5 +1,8 @@
 {
 "projectId": "icpqab",
 "experimentalStudio": true,
-"video": false
+"video": false,
+"env": {
+    "REACT_APP_MOVIE_API": "fake"
+}
 }
